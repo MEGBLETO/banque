@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1614697266 source:c:\users\xiaos\documents\bank\banque\banque.c
+	"banque.h"
+
+1350971706 c:\users\xiaos\documents\bank\banque\banque.h
+	"caissier.h"
+	"file.h"
+	"client.h"
+
+1614970923 c:\users\xiaos\documents\bank\banque\caissier.h
+	"client.h"
+
+1350850816 c:\users\xiaos\documents\bank\banque\client.h
+	"utils.h"
+
+1350851133 c:\users\xiaos\documents\bank\banque\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1350934947 c:\users\xiaos\documents\bank\banque\file.h
+	"client.h"
+
+1350932032 source:c:\users\xiaos\documents\bank\banque\caissier.c
+	"caissier.h"
+
+1350764081 source:c:\users\xiaos\documents\bank\banque\cassier.c
+	"cassier.h"
+
+1350828098 c:\users\xiaos\documents\bank\banque\cassier.h
+	"client.h"
+
+1350850818 source:c:\users\xiaos\documents\bank\banque\client.c
+	"client.h"
+
+1614697301 source:c:\users\xiaos\documents\bank\banque\file.c
+	"file.h"
+
+1614971367 source:c:\users\xiaos\documents\bank\banque\main.c
+	"utils.h"
+	"file.h"
+	"banque.h"
+
+1350766955 source:c:\users\xiaos\documents\bank\banque\utils.c
+	"utils.h"
+
